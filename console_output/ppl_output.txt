@@ -1,0 +1,73 @@
+--------------
+DEV SET
+Embed 10
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12229, Perplexity 561.399656
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 28.233579
+Embed 50
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12229, Perplexity 532.181086
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 30.143127
+Embed 100
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12229, Perplexity 502.776828
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 30.204243
+Embed 500
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12229, Perplexity 418.455866
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 30.195233
+Embed 1000
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12229, Perplexity 383.787748
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 27.787733
+Embed 5000
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12229, Perplexity 320.397914
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 30.564799
+Embed 10003
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12229, Perplexity 308.163505
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 36.257102
+--------------
+TEST SET
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12343, Perplexity 575.547495
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 39.801843
+Embed 50
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12343, Perplexity 545.371397
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 31.399767
+Embed 100
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12343, Perplexity 515.006017
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 30.166269
+Embed 500
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12343, Perplexity 427.398090
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 30.667401
+Embed 1000
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12343, Perplexity 389.322970
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 28.257690
+Embed 5000
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12343, Perplexity 322.070547
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 31.073478
+Embed 10003
+Using Theano backend.
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Reading the data
+Words: 12343, Perplexity 308.650383
+<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'> Elapsed time: 34.480839
